@@ -1,0 +1,11 @@
+﻿task,split,model,metric,未調參,調參後,最常選到的參數,差異
+迴歸,時間切,Ridge Regression,R2,0.663,0.663,"{""alpha"": 1}",0.0
+迴歸,時間切,Random Forest,R2,0.566,0.57,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.004
+迴歸,時間切,Gradient Boosting,R2,0.445,0.496,"{""learning_rate"": 0.03, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 1.0}",0.051
+迴歸,國家切,Ridge Regression,R2,0.692,0.692,"{""alpha"": 1}",0.0
+迴歸,國家切,Random Forest,R2,0.676,0.672,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",-0.004
+迴歸,國家切,Gradient Boosting,R2,0.675,0.675,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 0.8}",0.0
+分類,時間切,Logistic Regression,AUC,0.784,0.784,"{""C"": 1}",0.0
+分類,時間切,Random Forest,AUC,0.73,0.766,"{""max_depth"": 6, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.036
+分類,國家切,Logistic Regression,AUC,0.751,0.751,"{""C"": 10}",0.0
+分類,國家切,Random Forest,AUC,0.765,0.759,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 200}",-0.006

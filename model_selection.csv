@@ -1,0 +1,5 @@
+﻿task,split,selected,inner_cv_score,test_R2,test_AUC
+迴歸,時間切,Gradient Boosting（調參後）,0.631,0.496,
+迴歸,國家切,Ridge Regression（未調參）,0.689,0.692,
+分類,時間切,Random Forest（調參後）,0.715,,0.766
+分類,國家切,Random Forest（未調參）,0.75,,0.765

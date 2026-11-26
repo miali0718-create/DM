@@ -1,0 +1,60 @@
+iso_code,country,continent,before,after
+ARE,United Arab Emirates,亞洲,0.9974,0.2625
+ARG,Argentina,南美洲,6.8315,3.1354
+AUS,Australia,大洋洲,0.0434,0.4584
+AUT,Austria,歐洲,2.4102,0.446
+BEL,Belgium,歐洲,2.9043,0.5151
+BHR,Bahrain,亞洲,2.49,2.1222
+BRA,Brazil,南美洲,8.401,2.5738
+CAN,Canada,北美洲,1.8493,0.6105
+CHE,Switzerland,歐洲,1.9767,0.4089
+CHL,Chile,南美洲,4.4192,3.1884
+COL,Colombia,南美洲,6.4575,0.6364
+CRI,Costa Rica,北美洲,2.2736,4.6916
+CUB,Cuba,北美洲,4.0425,4.6946
+DEU,Germany,歐洲,4.2008,0.4586
+DNK,Denmark,歐洲,1.3354,0.2167
+DOM,Dominican Republic,北美洲,0.4618,0.1729
+ECU,Ecuador,南美洲,5.0892,1.382
+ESP,Spain,歐洲,3.3218,0.9542
+EST,Estonia,歐洲,3.6453,1.8212
+FIN,Finland,歐洲,0.3774,0.2471
+FRA,France,歐洲,3.9795,0.6415
+GBR,The United Kingdom,歐洲,6.3944,0.9825
+GRC,Greece,歐洲,4.0112,2.5174
+HUN,Hungary,歐洲,15.1716,3.1631
+IND,India,亞洲,0.8526,0.2484
+IRL,Ireland,歐洲,3.239,0.6293
+IRN,Iran (Islamic Republic of),亞洲,4.2603,2.0381
+ISR,Israel,亞洲,4.334,1.1492
+ITA,Italy,歐洲,5.3214,0.6003
+JPN,Japan,亞洲,0.3691,0.279
+KHM,Cambodia,亞洲,0.5621,0.8881
+KOR,Republic of Korea,亞洲,0.0682,0.1719
+LKA,Sri Lanka,亞洲,1.9269,4.7165
+LTU,Lithuania,歐洲,3.9486,4.3197
+LVA,Latvia,歐洲,4.1014,7.7587
+MAR,Morocco,非洲,0.5951,1.1371
+MEX,Mexico,北美洲,3.5297,1.6362
+MNG,Mongolia,亞洲,1.7729,2.4446
+MUS,Mauritius,非洲,0.0,0.9158
+MYS,Malaysia,亞洲,1.807,6.9172
+NLD,Netherlands,歐洲,1.6845,0.0349
+NOR,Norway,歐洲,0.369,0.1684
+NZL,New Zealand,大洋洲,0.0,0.0076
+OMN,Oman,亞洲,1.6509,0.1899
+PAN,Panama,北美洲,1.6475,1.2234
+PER,Peru,南美洲,11.5896,0.8101
+POL,Poland,歐洲,4.9371,0.3991
+PRT,Portugal,歐洲,4.9279,0.934
+QAT,Qatar,亞洲,1.1763,0.175
+SAU,Saudi Arabia,亞洲,0.4099,0.2135
+SGP,Singapore,亞洲,0.0074,0.5175
+SLV,El Salvador,北美洲,0.9253,1.6924
+SVN,Slovenia,歐洲,3.2807,2.6508
+SWE,Sweden,歐洲,2.788,0.3181
+THA,Thailand,亞洲,1.2709,1.0482
+TUR,Turkey,亞洲,1.6419,2.5903
+URY,Uruguay,南美洲,14.7988,3.956
+USA,United States of America,北美洲,3.8985,2.7559
+VNM,Viet Nam,亞洲,1.4749,0.6475

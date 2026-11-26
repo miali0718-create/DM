@@ -1,0 +1,31 @@
+﻿task,split,fold,model,best_params,inner_cv_score
+迴歸,時間切,0,Ridge Regression,"{""alpha"": 1}",0.5959
+迴歸,時間切,0,Random Forest,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.628
+迴歸,時間切,0,Gradient Boosting,"{""learning_rate"": 0.03, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 1.0}",0.6309
+分類,時間切,0,Logistic Regression,"{""C"": 1}",0.6983
+分類,時間切,0,Random Forest,"{""max_depth"": 6, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.7152
+迴歸,國家切,0,Ridge Regression,"{""alpha"": 1}",0.7314
+迴歸,國家切,0,Random Forest,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.7162
+迴歸,國家切,0,Gradient Boosting,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 0.8}",0.7215
+分類,國家切,0,Logistic Regression,"{""C"": 10}",0.7547
+分類,國家切,0,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.748
+迴歸,國家切,1,Ridge Regression,"{""alpha"": 1}",0.67
+迴歸,國家切,1,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.6393
+迴歸,國家切,1,Gradient Boosting,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 0.8}",0.6443
+分類,國家切,1,Logistic Regression,"{""C"": 1}",0.7514
+分類,國家切,1,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.7377
+迴歸,國家切,2,Ridge Regression,"{""alpha"": 1}",0.6823
+迴歸,國家切,2,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.6646
+迴歸,國家切,2,Gradient Boosting,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 0.8}",0.6713
+分類,國家切,2,Logistic Regression,"{""C"": 10}",0.7357
+分類,國家切,2,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.7397
+迴歸,國家切,3,Ridge Regression,"{""alpha"": 1}",0.7046
+迴歸,國家切,3,Random Forest,"{""max_depth"": null, ""max_features"": 1.0, ""min_samples_leaf"": 5, ""n_estimators"": 200}",0.6768
+迴歸,國家切,3,Gradient Boosting,"{""learning_rate"": 0.03, ""max_depth"": 2, ""n_estimators"": 300, ""subsample"": 0.8}",0.6896
+分類,國家切,3,Logistic Regression,"{""C"": 10}",0.7564
+分類,國家切,3,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.7735
+迴歸,國家切,4,Ridge Regression,"{""alpha"": 1}",0.6546
+迴歸,國家切,4,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.6453
+迴歸,國家切,4,Gradient Boosting,"{""learning_rate"": 0.1, ""max_depth"": 3, ""n_estimators"": 100, ""subsample"": 0.8}",0.6451
+分類,國家切,4,Logistic Regression,"{""C"": 10}",0.7395
+分類,國家切,4,Random Forest,"{""max_depth"": null, ""max_features"": 0.5, ""min_samples_leaf"": 2, ""n_estimators"": 200}",0.7526
